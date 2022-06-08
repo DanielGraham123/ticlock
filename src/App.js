@@ -14,7 +14,7 @@ function App() {
         />
       </div>
 
-      <h1 className="py-8 text-lg text-gray-500">Hello There</h1>
+      <h1 className="py-8 text-lg text-gray-500">Hello There!</h1>
 
       <div className=" pb-2 px-4">
         <small className="text-teal-700">Today is:</small>
